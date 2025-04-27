@@ -24,11 +24,11 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 ⭐ SQL Veri Tabanı
 
 🧑🏻‍💻 Admin Paneli
-![12](https://github.com/user-attachments/assets/fc264a1e-0e64-43c8-98f0-38b8bf964cb3)
+
 
 🔓 LogIn Paneli
 ➤ Admin olarak yetkilendirilmiş kişilerin giriş yapıp admin paneline ulaşmasını sağlayan sayfadır. Buradaki giriş bilgileri, veri tabanındaki bilgiler ile doğru orantılı olarak dinamik bir halde değişmektedir. Bu durumu elde etmek için ise Session yapısını kullandım.
-![11](https://github.com/user-attachments/assets/72263e14-1a50-40d2-b561-905c93cf419a)
+![12](https://github.com/user-attachments/assets/fc264a1e-0e64-43c8-98f0-38b8bf964cb3)
 
 🏷️ Kategori Paneli
 
