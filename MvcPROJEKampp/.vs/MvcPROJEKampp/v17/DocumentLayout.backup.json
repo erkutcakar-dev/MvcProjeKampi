@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8DD61D-3FC8-4E3C-B7E0-F0195C7A4DD6}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\user\\source\\repos\\mvcprojekampp\\businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8DD61D-3FC8-4E3C-B7E0-F0195C7A4DD6}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|c:\\users\\user\\source\\repos\\mvcprojekampp\\mvcprojekampp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|solutionrelative:mvcprojekampp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28924A85-D8C3-4DD7-B981-6EA2DCB9824A}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\user\\source\\repos\\mvcprojekampp\\dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28924A85-D8C3-4DD7-B981-6EA2DCB9824A}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\mvcprojekampp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|solutionrelative:mvcprojekampp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\mvcprojekampp\\adminlte-3.0.4\\pages\\mailbox\\mailbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|solutionrelative:mvcprojekampp\\adminlte-3.0.4\\pages\\mailbox\\mailbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 319,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\BusinessLayer\\Concrete\\ContactManager.cs*",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ContactManager.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwCwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:49:52.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\DataAccessLayer\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Abstract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:48:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mailbox.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\AdminLTE-3.0.4\\pages\\mailbox\\mailbox.html",
+              "RelativeDocumentMoniker": "MvcPROJEKampp\\AdminLTE-3.0.4\\pages\\mailbox\\mailbox.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\AdminLTE-3.0.4\\pages\\mailbox\\mailbox.html",
+              "RelativeToolTip": "MvcPROJEKampp\\AdminLTE-3.0.4\\pages\\mailbox\\mailbox.html",
+              "ViewState": "AgIAAKMDAAAAAAAAAAAAAIQEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-19T19:16:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcPROJEKampp\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MvcPROJEKampp\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAWwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T19:11:39.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MvcPROJEKampp\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MvcPROJEKampp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:11:16.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|c:\\users\\user\\source\\repos\\mvcprojekampp\\mvcprojekampp\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{880DAB40-AB13-4A1D-8DE7-6A572C7F9B68}|MvcPROJEKampp\\MvcPROJEKampp.csproj|solutionrelative:mvcprojekampp\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 319,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "MvcPROJEKampp\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MvcPROJEKampp\\MvcPROJEKampp\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "MvcPROJEKampp\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-27T11:13:45.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
