@@ -147,10 +147,18 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 ➤ Sayfayı görüntüleyen kullanıcıların Adminlere ulaşmasını sağlayan paneldir.
 
 💰 Bu Proje Bana Neler Kattı;
+
 ⭐ SOLID Yapısını öğrenmemi ve pekiştirmemi
+
 ⭐ N katmanlı mimari ile nasıl proje geliştirilip, mimarinin nasıl kurulacağını öğrenmemi ve pekiştirmemi
+
 ⭐ Pop-Up yapısını pekiştirmemi
+
 ⭐ Validation kontrollerini pekiştirmemi
+
 ⭐ Asp.Net MVC Yapısını pekiştirmemi
+
 ⭐ Hata Sayfalarının eklenmesi ve pekiştirmemi
+
 ⭐ CodeFirst İle Migration yapısını Pekiştirmemi
+
