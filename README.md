@@ -60,10 +60,6 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 ➤ Admin kayıtlı yazarları burada görüntüler, dilerse yazarların yazılarını görüntüleyebilir.
 🔄 Yazar Profil Düzenleme Paneli
 ➤ Yazara ait girilmiş bilgiler üzerinde gerekli değişiklikleri yapmak için bu paneli kullanır.
-ℹ️ Hakkımızda Paneli
-➤ Admin Kayıtlı olan Hakkımızda yazılarını görüntüler, mevcut verileri güncelleyip silebilir.
-➕ Yeni Hakkımda Ekleme Paneli
-➤ Dilerse yeni hakkımızda girişi yapabilir. Buradaki hakkımızda girişi için Pop-Up yapısını kullandım.
 📋 Raporlar Paneli
 ![1](https://github.com/user-attachments/assets/364f9f07-18fb-45a0-8887-415b57bd1dee)
 
