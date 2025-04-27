@@ -109,10 +109,9 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 ![image](https://github.com/user-attachments/assets/43b66f52-cb9d-4201-b30b-d428a717306c)
 
 ➤ Yazar, kendisinin girmiş olduğu tüm yazıları burada görüntüler
-📨 Mesajlar Paneli
-![image](https://github.com/user-attachments/assets/59f14429-ddb9-4d8a-844c-fa115cde4581)
 
 📨 Mesajlar Paneli
+![image](https://github.com/user-attachments/assets/59f14429-ddb9-4d8a-844c-fa115cde4581)
 ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir.
 
 
