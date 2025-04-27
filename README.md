@@ -16,12 +16,19 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 🔹 Ana Sayfa - Vitrin Sayfası : Projede kullandığım yaklaşımlar, teknolojiler ve izlediğim yolların bulunduğu. Birnevi proje'nin özeti niteliğinde olan bölümdür.
 
 🔵 Projede kullandığım teknolojiler
+
 ⭐ C
+
 ⭐ Entity Framework CodeFirst Yapısı
+
 ⭐ C Asp.Net MVC
+
 ⭐ Kurumsal Mimari
+
 ⭐ SOLID Prensipleri
+
 ⭐ SQL Veri Tabanı
+
 
 🧑🏻‍💻 Admin Paneli
 
