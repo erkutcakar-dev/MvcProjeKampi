@@ -28,7 +28,7 @@
 
 🔵 Projede kullandığım teknolojiler
 
-⭐ C
+⭐ C#
 
 ⭐ Entity Framework CodeFirst Yapısı
 
@@ -42,7 +42,6 @@
 
 
 🧑🏻‍💻 Admin Paneli
-
 
 🔓 LogIn Paneli
 ➤ Admin olarak yetkilendirilmiş kişilerin giriş yapıp admin paneline ulaşmasını sağlayan sayfadır. Buradaki giriş bilgileri, veri tabanındaki bilgiler ile doğru orantılı olarak dinamik bir halde değişmektedir. Bu durumu elde etmek için ise Session yapısını kullandım.
