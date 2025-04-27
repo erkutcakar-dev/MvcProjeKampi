@@ -135,8 +135,6 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 ![image](https://github.com/user-attachments/assets/443f721d-3dc7-40c5-a639-b41e2845f143)
 
 ➤ Projeye ait görseller burada bulunur.
-![image](https://github.com/user-attachments/assets/9e3f3f87-a809-4c3e-987a-d230c975fa1e)
-
 
 📊 İstatistik Ve Notlar Paneli
 ![image](https://github.com/user-attachments/assets/564f1ab7-f4ca-4502-bc99-9acf3641e6a7)
