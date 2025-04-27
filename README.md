@@ -1,4 +1,4 @@
-💠 MVC5 İle Admin Panelli Dinamik Sözlük Projesi Eğitmenliğini Murat YÜCEDAĞ'ın üstlendiği, Youtube'da bulunan "MVC Proje Kampı" oynatma listesinden yararlanarak tamamladığım bir web projesidir.
+💠 MVC5 İle Admin Panelli Dinamik Sözlük Projesi Eğitmenliğini Murat YÜCEDAĞ'ın üstlendiği, "MVC Proje Kampı" oynatma listesinden yararlanarak tamamladığım bir web projesidir.
 
 💠 Projenin Özellikleri
 
