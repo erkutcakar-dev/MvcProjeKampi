@@ -54,33 +54,32 @@ Eğitmenliğini Murat YÜCEDAĞ'IN üstlendiği, Youtube'da bulunan "MVC Proje K
 
 ✍🏼 Yazarlar Bölümü
 ![image](https://github.com/user-attachments/assets/fd864dc8-7b94-4a26-aea3-156f466c7b3d)
-
-
-
 ➤ Admin kayıtlı yazarları burada görüntüler, dilerse yazarların yazılarını görüntüleyebilir.
 🔄 Yazar Profil Düzenleme Paneli
 ➤ Yazara ait girilmiş bilgiler üzerinde gerekli değişiklikleri yapmak için bu paneli kullanır.
+
 📋 Raporlar Paneli
 ![1](https://github.com/user-attachments/assets/364f9f07-18fb-45a0-8887-415b57bd1dee)
-
 ➤ Tamamlanan Projedeki verilerin raporlandığı paneldir.
+
 📨 Mesajlar Paneli
 ![image](https://github.com/user-attachments/assets/5f14f209-144e-44f9-9a2e-8fc92d95f922)
 
 ➤ Adminler, gelen mesajlar bölümünden yazarlardan taraflarına iletilen mesajları görüntüleyebilir. Gönderilen mesajlarda ise adminler, yazarlara gönderdiği mesajları görebilir. Listelenen mesajlara tıklayarak içeriği görüntüleyebilir.
+
 🔑 Yetkilendirme Paneli
 ![image](https://github.com/user-attachments/assets/f331e22f-038b-48d1-b813-03ecadac156d)
 
 ➤ Yetkilendirilmiş Adminler burada görüntülenir, istenilirse "Yeni Admin Tanımla" butonu ile yetkilendirmeleri yapıp, mevcut yetkilendirme bilgilerini güncelleyebilir ve silme işlemi yapılabilir.
+
 🚫 Hata Sayfası Paneli
 ![image](https://github.com/user-attachments/assets/e28ba415-b7b9-4dd7-aff5-9e3e530c2f7c)
 
 ➤ Hata alınan sayfalar için hataları listeleyebiliriz.
-🎯Yetenek Kartım Paneli
-➤ Burada, kendime ait bir yetenek kartım bulunmaktadır. Bilgi sahibi olduğum konular ve dereceleri burada listelenmektedir.
 
 🌐 Siteye Git Paneli
-![image](https://github.com/user-attachments/assets/97102408-1741-4670-bb63-f0755c458f7b)
+![image](https://github.com/user-attachments/assets/702e3d68-cb8f-4108-a3c9-ec4ff0bf928a)
+
 
 ➤ Bu bölümü kullanarak Anasayfaya ulaşabilirsiniz
 
